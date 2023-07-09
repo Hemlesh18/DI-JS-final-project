@@ -27,7 +27,7 @@ class Meal {
         this.id = id;
         this.img = img;
         this.name = name;
-        this.description = 'Consequatur facere labore atque hic. Alias, saepe, impedit veritatis molestias voluptatum commodi veniam architecto laudantium accusantium dicta laboriosam quas recusandae praesentium adipisci TAX ADDED';
+        this.description = 'Consequatur facere labore atque hic. Alias, saepe, impedit veritatis molestias voluptatum commodi veniam architecto laudantium accusantium dicta laboriosam quas recusandae praesentium adipisci NOTE: Tax included ';
         this.price = price;
     }
 }
